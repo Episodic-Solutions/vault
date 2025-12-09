@@ -1,0 +1,9 @@
+[submodule "vault-api-gateway"]
+	path = vault-api-gateway
+	url = git@github.com:Episodic-Solutions/vault-api-gateway.git
+[submodule "vault-product"]
+	path = vault-product
+	url = git@github.com:Episodic-Solutions/vault-product.git
+[submodule "vault-platform"]
+	path = vault-platform
+	url = git@github.com:Episodic-Solutions/vault-platform.git
