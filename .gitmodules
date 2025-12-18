@@ -7,3 +7,6 @@
 [submodule "vault-platform"]
 	path = vault-platform
 	url = git@github.com:Episodic-Solutions/vault-platform.git
+[submodule "um-cli"]
+	path = um-cli
+	url = https://github.com/tjconstant/um-cli.git
